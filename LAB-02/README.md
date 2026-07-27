@@ -130,6 +130,22 @@ apple_products_clean.csv
 ```
 
 ---
+# References
+
+1. Apple Products Pricing Dataset (2020–2026). Kaggle.  
+   https://www.kaggle.com/datasets/ashyou09/apple-products-pricing-dataset-2020-2026
+
+2. Pandas Documentation.  
+   https://pandas.pydata.org/
+
+3. Matplotlib Documentation.  
+   https://matplotlib.org/
+
+4. Seaborn Documentation.  
+   https://seaborn.pydata.org/
+
+5. Scikit-learn Documentation.  
+   https://scikit-learn.org/stable/
 
 ## Author
 
@@ -138,3 +154,4 @@ apple_products_clean.csv
 **Student ID : 1167104620139**
 
 Machine Learning Laboratory
+
