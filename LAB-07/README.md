@@ -15,6 +15,8 @@ The objective of this laboratory is to apply a Convolutional Neural Network (CNN
 ---
 
 ## Dataset
+Dataset:
+https://www.kaggle.com/competitions/dogs-vs-cats
 
 This project uses a custom image dataset stored locally.
 
