@@ -1,0 +1,4 @@
+Configuration,Epochs,Validation Accuracy
+Config1,10,0.8105
+Config1,20,0.8315
+Config1,30,0.8479
