@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Dataset
+LAB-07/images/
+LAB-10/images/
+
+# Trained models
+*.keras
+
+# Python cache
+__pycache__/
+
