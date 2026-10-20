@@ -1,0 +1,11 @@
+# YOLO outputs
+runs/
+
+# Dataset
+dataset/
+
+# Python cache
+__pycache__/
+
+# Model weights
+*.pt

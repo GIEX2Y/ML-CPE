@@ -1,0 +1,6 @@
+ultralytics
+datasets
+pillow
+opencv-python
+numpy
+matplotlib
